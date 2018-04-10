@@ -20,7 +20,7 @@ Type 'flip' for coinflip \nType 'roll' for roll and dice\nType 'exit' if you wan
 
 class Player:
     def __init__(self):
-        self.money = 180000
+        self.money = 18000
         self.level = 1
         self.xp = 0
         self.income = 1800
