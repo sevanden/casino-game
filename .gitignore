@@ -259,3 +259,9 @@ fabric.properties
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 /.directory
+/.idea/casino-game.iml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
